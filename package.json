@@ -1,0 +1,11 @@
+{
+  "name": "devflow-ecommerce",
+  "version": "1.0.0",
+  "description": "Loja da DevFlow Solutions com pipeline CI/CD",
+  "type": "module",
+  "scripts": {
+    "build": "node build.js",
+    "test": "node --test \"tests/**/*.test.js\""
+  },
+  "license": "ISC"
+}
